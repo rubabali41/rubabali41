@@ -1,4 +1,4 @@
-### Hello, I'm [Your Name]! 👋
+### Hello, I'm Rubab Ali! 👋
 I'm a bioinformatics enthusiast on a quest to decode the mysteries of life through data. Currently pursuing my master's degree in bioinformatics, I'm passionate about leveraging Python and exploring the realms of machine learning algorithms to unravel biological complexities.
 
 ### 🔬 Academic Journey
